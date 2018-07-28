@@ -22,8 +22,8 @@
 	<div class="container">
 
         <div class="content">
-            <h1>Love beautiful code? We do too.</h1>
-            <p>The PHP Framework For Web Artisans</p>
+            <h1>Vous aimez le beau code ? Nous aussi.</h1>
+            <p>Le framework PHP pour les artisans du web</p>
         </div>
 
         @include('partials/browser')
@@ -51,7 +51,7 @@ class Idea extends Eloquent
         </div>
 
         <div class="callout rule">
-            <span class="text">See What's New!</span>
+            <span class="text">Les nouveautés&nbsp;!</span>
         </div>
 
         <div class="callouts">
@@ -60,7 +60,7 @@ class Idea extends Eloquent
                     <div class="callout-title">Laravel Horizon</div>
                     <div class="callout-icon">{!! svg('logo-horizon')!!}</div>
                 </div>
-                <p>Laravel Horizon provides a beautiful dashboard and code-driven configuration for your Redis queues.</p>
+                <p>Laravel Horizon fournit un magnifique tableau de bord et une configuration gérée par le code pour vos files d'attente Redis.</p>
             </a>
             <a href="/docs/dusk" class="callout minimal third">
                 <div class="callout-head">
@@ -89,7 +89,7 @@ class Idea extends Eloquent
 
 <section class="panel features dark" id="features">
 	<h1>Did someone say rapid?</h1>
-	<p class="intro">Elegant applications delivered at warp speed.</p>
+	<p class="intro">Des applications élégantes livrées à la vitesse de l’éclair.</p>
 		<div class="blocks stacked">
 			<div class="block odd">
 				<div class="text">
